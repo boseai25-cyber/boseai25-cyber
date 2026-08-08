@@ -89,3 +89,99 @@ A 3D strategy-action game that mixes turn-based chess tactics with a survival-ho
 
 <details>
 <summary>📁 See project structure</summary>
+
+
+</details>
+
+---
+
+### ♟️ [Chess-game-](https://github.com/boseai25-cyber/Chess-game-) — early-stage Godot project
+
+An earlier chess project, still in its early stages (11 commits). It includes `Scenes` and sprite asset folders along with a Godot `export_presets.cfg`, so it's a separate Godot build rather than a continuation of The Last King.
+
+🔗 [View Repository](https://github.com/boseai25-cyber/Chess-game-)
+
+<br/>
+
+## 🐍 Python & Data Practice
+
+### [python_learning](https://github.com/boseai25-cyber/python_learning)
+
+A working folder of Python exercises (`exe_1.py` through `exe_13.py`, plus a `practice.py`) as I build up fundamentals. It also contains a Power BI dashboard file (`bose_dashboard.pbix`) — an early step into working with data outside pure scripting.
+
+🔗 [View Repository](https://github.com/boseai25-cyber/python_learning)
+
+<br/>
+
+## 🌐 JavaScript Learning Journey
+
+### [Exe_javascript_scrach](https://github.com/boseai25-cyber/Exe_javascript_scrach)
+
+Learning JavaScript from the ground up, one lesson at a time — currently at **10 lesson folders** and **143 commits**, working steadily toward building bigger projects with it.
+
+🔗 [View Repository](https://github.com/boseai25-cyber/Exe_javascript_scrach)
+
+<br/>
+
+## 📈 Currently Learning
+
+<details>
+<summary>Click to expand</summary>
+
+- 🎮 Deeper Godot systems (shaders, VFX, audio integration) for *The Last King*
+- 🌐 JavaScript fundamentals, lesson by lesson
+- 🐍 Python fundamentals and basic data work
+- 🤖 Core AI & Data Science concepts as part of my degree
+
+</details>
+
+<br/>
+
+## 🎯 Current Goals
+
+- Finish polishing *The Last King* — assets, shaders, audio
+- Strengthen programming fundamentals in Python and JavaScript
+- Start building small AI/Data Science projects as I learn the concepts
+- Keep this profile an honest, growing record of what I've actually built
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=boseai25-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boseai25-cyber&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
+
+</div>
+
+> These are live stats pulled directly from GitHub by a third-party widget (github-readme-stats) — not hardcoded. As a newer account with 4 repos, numbers will look small right now and grow with activity.
+
+<br/>
+
+## 🔗 Connect With Me
+
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/boseai25-cyber)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+]([ADD YOUR LINKEDIN URL HERE])
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+]([ADD YOUR PORTFOLIO LINK HERE])
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+*Still building. Still learning. Check back for updates.*
+
+</div>
